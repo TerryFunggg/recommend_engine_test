@@ -1,0 +1,12 @@
+{
+    "name": "terryfung/php",
+    "authors": [
+        {
+            "name": "TerryFunggg",
+            "email": "terryyessfung@gmail.com"
+        }
+    ],
+    "require": {
+        "stojg/recommend": "^1.0"
+    }
+}
